@@ -64,11 +64,26 @@ class AIEcosystemMapper:
             'cody': [
                 'cody ai', 'sourcegraph cody', 'cody', 'cody helped', 'cody suggested'
             ],
+            'coderabbit': [
+                'coderabbit', 'code rabbit', 'coderabbit ai', '@coderabbitai',
+                'coderabbit review', 'automated review', 'ai review', 'ai reviewer'
+            ],
+            'github_copilot_chat': [
+                'copilot chat', 'github copilot chat', '@github copilot', 'copilot explain'
+            ],
             'general_ai': [
                 'ai assisted', 'ai generated', 'ai helped', 'ai suggestion', 'ai tool',
                 'artificial intelligence', 'machine learning', 'neural network',
                 'large language model', 'llm', 'ai model', 'ai review', 'ai analysis'
             ]
+        }
+        
+        # Infrastructure/automation bots to EXCLUDE (not AI)
+        self.infrastructure_bots = {
+            'changeset-bot', 'vercel-bot', 'codecov-bot', 'dependabot', 'renovate-bot',
+            'github-actions', 'netlify-bot', 'heroku-bot', 'circleci-bot', 'travis-ci',
+            'snyk-bot', 'greenkeeper', 'semantic-release-bot', 'allcontributors',
+            'stale-bot', 'probot', 'mergify', 'codecov', 'coveralls'
         }
         
         # Define primary creator detection patterns
@@ -97,6 +112,11 @@ class AIEcosystemMapper:
                 'bot_accounts': ['cursor[bot]', 'cursor-ai[bot]'],
                 'branch_patterns': ['cursor/', 'cursor-'],
                 'commit_patterns': ['cursor:', 'by cursor']
+            },
+            'coderabbit': {
+                'bot_accounts': ['coderabbitai[bot]', 'coderabbit[bot]'],
+                'branch_patterns': [],
+                'commit_patterns': ['coderabbit:', 'automated review']
             }
         }
     
@@ -218,8 +238,10 @@ class AIEcosystemMapper:
         
         ai_tools_found = {}  # tool_name -> [evidence_list]
         
-        # Scan PR title and description
-        pr_text = (pr_data['title'] + ' ' + pr_data.get('body', '')).lower()
+        # Scan PR title and description (handle None values)
+        title = pr_data.get('title') or ''
+        body = pr_data.get('body') or ''
+        pr_text = (title + ' ' + body).lower()
         
         for tool_name, patterns in self.ai_tool_patterns.items():
             for pattern in patterns:
@@ -270,6 +292,10 @@ class AIEcosystemMapper:
                     comment_body = comment.get('body', '').lower()
                     comment_author = comment['user']['login']
                     comment_date = comment['created_at']
+                    
+                    # Skip infrastructure/automation bots
+                    if any(bot in comment_author.lower() for bot in self.infrastructure_bots):
+                        continue
                     
                     for tool_name, patterns in self.ai_tool_patterns.items():
                         for pattern in patterns:
@@ -553,17 +579,25 @@ class AIEcosystemMapper:
             json.dump(serializable_results, f, indent=2, default=str)
         
         print(f"\n💾 Detailed results saved to {filename}")
-
 def main():
     """Main function to run AI ecosystem mapping."""
-    mapper = AIEcosystemMapper()
+    import sys
     
-    # Run the complete ecosystem mapping
-    results = mapper.run_ecosystem_mapping(max_prs=20)  # Start with 20 PRs
+    # Allow command line argument for number of PRs
+    max_prs = 100  # Default to 100
+    if len(sys.argv) > 1:
+        try:
+            max_prs = int(sys.argv[1])
+        except ValueError:
+            print("Usage: python ai_ecosystem_mapper.py [number_of_prs]")
+            return
+    
+    print(f"📊 Analyzing up to {max_prs} PRs...")
+    
+    mapper = AIEcosystemMapper()
+    results = mapper.run_ecosystem_mapping(max_prs=max_prs)
     
     print(f"\n🎯 Ecosystem mapping complete!")
     print(f"📊 Analyzed {len(results)} PRs from ai-pr-watcher dataset")
-    print(f"🔍 Found complete AI tool ecosystem for each PR")
-
 if __name__ == "__main__":
     main()

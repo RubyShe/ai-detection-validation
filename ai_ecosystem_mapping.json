@@ -1,0 +1,4255 @@
+[
+  {
+    "pr_info": {
+      "url": "https://github.com/athipan1/AI_Assistant_PaiNaiDee/pull/20",
+      "repo": "athipan1/AI_Assistant_PaiNaiDee",
+      "pr_number": 20,
+      "title": "Implement Plugin System for RAG-based AI Assistant with External API Integration",
+      "author": "Copilot",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        }
+      ],
+      "github_copilot_chat": [
+        {
+          "location": "PR description",
+          "pattern": "copilot chat"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "github_copilot",
+      "github_copilot_chat"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/rabbitism/Ursa.Avalonia/pull/14",
+      "repo": "rabbitism/Ursa.Avalonia",
+      "pr_number": 14,
+      "title": "[WIP] Add headless test or unit test for all NumericUpDown and related sub classes.",
+      "author": "Copilot",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/Montinou/initiative-dashboard/pull/1",
+      "repo": "Montinou/initiative-dashboard",
+      "pr_number": 1,
+      "title": "[WIP] Work in a new branch make sure dashboard/dashboard.tsx is showing real data entirely, clean all mocks and replace with data fetched from the database. The sql file I attached contain the actual schema of the database. Analyze, Think elaborate a plan and...",
+      "author": "Copilot",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/HANSKMIEL/landscape-architecture-tool/pull/124",
+      "repo": "HANSKMIEL/landscape-architecture-tool",
+      "pr_number": 124,
+      "title": "[WIP] workflow errors",
+      "author": "Copilot",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/ragusa-it/ai-handoff-mcp/pull/3",
+      "repo": "ragusa-it/ai-handoff-mcp",
+      "pr_number": 3,
+      "title": "Implement Task 5.2 Enhanced Anomaly Detection and Task 6 New MCP Resources",
+      "author": "Copilot",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        },
+        {
+          "location": "Code review comment",
+          "pattern": "copilot",
+          "author": "ragusa-it",
+          "file": "src/server.ts"
+        }
+      ],
+      "claude": [
+        {
+          "location": "PR comment",
+          "pattern": "claude",
+          "author": "claude[bot]",
+          "date": "2025-07-30T01:49:22Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "claude",
+          "author": "claude[bot]",
+          "date": "2025-07-30T01:49:43Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "claude",
+          "author": "openhands-ai[bot]",
+          "date": "2025-07-30T06:58:14Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "claude code",
+          "author": "openhands-ai[bot]",
+          "date": "2025-07-30T06:58:14Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "claude",
+          "author": "openhands-ai[bot]",
+          "date": "2025-07-30T06:58:14Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "claude code",
+          "author": "openhands-ai[bot]",
+          "date": "2025-07-30T06:58:14Z"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude",
+          "commit_sha": "7bfc4474",
+          "author": "Melvin Ragusa"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude-code",
+          "commit_sha": "7bfc4474",
+          "author": "Melvin Ragusa"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude",
+          "commit_sha": "fac336df",
+          "author": "Melvin Ragusa"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "github_copilot",
+      "claude"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/CarGuo/GSYGithubAPP/pull/138",
+      "repo": "CarGuo/GSYGithubAPP",
+      "pr_number": 138,
+      "title": "Upgrade GSYGithubAPP to React Native 0.74 with Android dependency compatibility fixes and ViewPropTypes runtime error resolution",
+      "author": "Copilot",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "Copilot",
+          "date": "2025-07-29T08:26:16Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "Copilot",
+          "date": "2025-07-29T08:43:28Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "Copilot",
+          "date": "2025-07-29T08:59:08Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "Copilot",
+          "date": "2025-07-29T09:13:49Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "Copilot",
+          "date": "2025-07-29T09:36:13Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "Copilot",
+          "date": "2025-07-30T01:00:30Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "Copilot",
+          "date": "2025-07-30T01:11:03Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "Copilot",
+          "date": "2025-07-30T01:23:01Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "Copilot",
+          "date": "2025-07-30T06:45:55Z"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "copilot",
+          "commit_sha": "2cd23caa",
+          "author": "Asher.Guo@barcoverse.com"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "copilot",
+          "commit_sha": "ee355efc",
+          "author": "Asher.Guo@barcoverse.com"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "copilot",
+          "commit_sha": "5f0b0957",
+          "author": "Asher.Guo@barcoverse.com"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/Kellyjunior6387/flixshare/pull/9",
+      "repo": "Kellyjunior6387/flixshare",
+      "pr_number": 9,
+      "title": "Implement Enhanced Billing & Payments Page with Consistent Navigation and Improved M-Pesa Integration",
+      "author": "Copilot",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/dennisblokland/NihongoBot/pull/81",
+      "repo": "dennisblokland/NihongoBot",
+      "pr_number": 81,
+      "title": "Replace memory-based image caching with disk-based storage for improved scalability",
+      "author": "Copilot",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/hizir-ceylan/InventoryManagementSystem/pull/43",
+      "repo": "hizir-ceylan/InventoryManagementSystem",
+      "pr_number": 43,
+      "title": "[WIP] \"id\": \"1a82e496-7d20-4caf-852d-86930b33f1a3\",\n    \"timestamp\": \"2025-07-30T06:57:42.55733Z\",\n    \"source\": \"RequestLogging\",\n    \"level\": \"Error\",\n    \"message\": \"Error in request logging middleware\",\n    \"data\": {\n      \"exception\": \"Microsoft.EntityFr...",
+      "author": "Copilot",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/stickerverse/stickereditor/pull/1",
+      "repo": "stickerverse/stickereditor",
+      "pr_number": 1,
+      "title": "Design System Foundation & State Management Setup for Sticker Editor",
+      "author": "Copilot",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/timfee/cep-compass/pull/121",
+      "repo": "timfee/cep-compass",
+      "pr_number": 121,
+      "title": "Evaluate and improve CI tasks and test configuration",
+      "author": "Copilot",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/timfee/cep-compass/pull/120",
+      "repo": "timfee/cep-compass",
+      "pr_number": 120,
+      "title": "[WIP] Evaluate and improve CI tasks and test configuration",
+      "author": "Copilot",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/kachick/depop/pull/262",
+      "repo": "kachick/depop",
+      "pr_number": 262,
+      "title": "Add Chrome extension popup with uBlock Origin-style filtering controls",
+      "author": "Copilot",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "Copilot",
+          "date": "2025-07-28T06:27:10Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "kachick",
+          "date": "2025-07-28T11:07:52Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "Copilot",
+          "date": "2025-07-28T11:22:49Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "Copilot",
+          "date": "2025-07-28T12:31:31Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "Copilot",
+          "date": "2025-07-28T13:04:03Z"
+        },
+        {
+          "location": "Code review comment",
+          "pattern": "copilot",
+          "author": "kachick",
+          "file": "src/github-patcher.ts"
+        }
+      ],
+      "general_ai": [
+        {
+          "location": "Commit message",
+          "pattern": "llm",
+          "commit_sha": "9fd0e01f",
+          "author": "Kenichi Kamiya"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "github_copilot",
+      "general_ai"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/fanhuang-hn/vidientu/pull/2",
+      "repo": "fanhuang-hn/vidientu",
+      "pr_number": 2,
+      "title": "Design comprehensive money top-up flows for electronic wallet application",
+      "author": "Copilot",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "fanhuang-hn",
+          "date": "2025-07-30T05:15:03Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "Copilot",
+          "date": "2025-07-30T05:16:38Z"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/saleor/saleor-docs/pull/1647",
+      "repo": "saleor/saleor-docs",
+      "pr_number": 1647,
+      "title": "[WIP] You are a technical writer and you are going to improve the content of the docs. Docs are dedicated mainly for integrators of ecommerce platforms. They will likely be programms or technical e-commerce people. Docs should explain how Saleor works as a pl...",
+      "author": "Copilot",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "copilot",
+          "author": "vercel[bot]",
+          "date": "2025-07-30T07:01:38Z"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/uvmain/zene/pull/29",
+      "repo": "uvmain/zene",
+      "pr_number": 29,
+      "title": "[WIP] This project uses an Sqlite database via the zombiezen package in the go backend. Please create a new PR migrating it to use the modernc package and the standard database/sql driver. Ensure the database is opened in WAL mode. Update all database functio...",
+      "author": "Copilot",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/sandwichcookice/Demon/pull/38",
+      "repo": "sandwichcookice/Demon",
+      "pr_number": 38,
+      "title": "\u5be6\u73fe PromptComposer \u63d0\u793a\u8a5e\u7d44\u5408\u529f\u80fd\u8207\u5168\u9762\u4f8b\u5916\u8655\u7406",
+      "author": "Copilot",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        }
+      ],
+      "general_ai": [
+        {
+          "location": "PR description",
+          "pattern": "llm"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "github_copilot",
+      "general_ai"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/liudaohui404/log-analyzer/pull/6",
+      "repo": "liudaohui404/log-analyzer",
+      "pr_number": 6,
+      "title": "Fix backend error handling for password-protected ZIP file uploads",
+      "author": "Copilot",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/timfee/cep-compass/pull/126",
+      "repo": "timfee/cep-compass",
+      "pr_number": 126,
+      "title": "Fix DRY violations and code smells throughout the codebase",
+      "author": "Copilot",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "copilot",
+          "commit_sha": "8e8764ea",
+          "author": "Tim Feeley"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "copilot",
+          "commit_sha": "be1ab23f",
+          "author": "Tim Feeley"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/DaveSkender/Stock.Indicators/pull/1378",
+      "repo": "DaveSkender/Stock.Indicators",
+      "pr_number": 1378,
+      "title": "[WIP] Add code utility and tests for executing listing or predefined indicator without only ID and Style and no code compositions requiring prior knowledge of typings and implementation syntax\n should also accept JSON string for executing listing",
+      "author": "Copilot",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "github_copilot",
+      "confidence": "medium",
+      "evidence": "Branch pattern: copilot/"
+    },
+    "ai_tools_detected": {
+      "github_copilot": [
+        {
+          "location": "PR description",
+          "pattern": "copilot"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "github_copilot"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/lordmauve/pyfxr/pull/9",
+      "repo": "lordmauve/pyfxr",
+      "pr_number": 9,
+      "title": "Add tests and CI workflow",
+      "author": "lordmauve",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/leynos/cmd-mox/pull/27",
+      "repo": "leynos/cmd-mox",
+      "pr_number": 27,
+      "title": "Add environment restore helper",
+      "author": "leynos",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "codex",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:07:16Z"
+        }
+      ],
+      "coderabbit": [
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:07:16Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:07:16Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:07:16Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:07:16Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "sourcery-ai[bot]",
+          "date": "2025-07-30T07:07:19Z"
+        }
+      ],
+      "general_ai": [
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:07:16Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "sourcery-ai[bot]",
+          "date": "2025-07-30T07:07:19Z"
+        }
+      ]
+    },
+    "ai_tool_count": 4,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex",
+      "coderabbit",
+      "general_ai"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/fonso7354/30-07-2025/pull/1",
+      "repo": "fonso7354/30-07-2025",
+      "pr_number": 1,
+      "title": "Add dynamic mesh sections and width control",
+      "author": "fonso7354",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/leynos/ddlint/pull/104",
+      "repo": "leynos/ddlint",
+      "pr_number": 104,
+      "title": "Refactor rule span logic",
+      "author": "leynos",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "codex",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T18:47:13Z"
+        }
+      ],
+      "coderabbit": [
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T18:47:13Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T18:47:13Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T18:47:13Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T18:47:13Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "sourcery-ai[bot]",
+          "date": "2025-07-28T18:47:16Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "leynos",
+          "date": "2025-07-28T19:11:37Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "leynos",
+          "date": "2025-07-28T19:11:37Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "leynos",
+          "date": "2025-07-28T19:11:37Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T19:11:44Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "leynos",
+          "date": "2025-07-30T07:01:26Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "leynos",
+          "date": "2025-07-30T07:01:26Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "leynos",
+          "date": "2025-07-30T07:01:26Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:01:43Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "leynos",
+          "date": "2025-07-30T07:05:09Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "leynos",
+          "date": "2025-07-30T07:05:09Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "leynos",
+          "date": "2025-07-30T07:05:09Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:05:15Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "leynos",
+          "date": "2025-07-30T07:07:32Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "leynos",
+          "date": "2025-07-30T07:07:32Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "leynos",
+          "date": "2025-07-30T07:07:32Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:07:38Z"
+        }
+      ],
+      "general_ai": [
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T18:47:13Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "sourcery-ai[bot]",
+          "date": "2025-07-28T18:47:16Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "leynos",
+          "date": "2025-07-28T19:11:37Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "leynos",
+          "date": "2025-07-30T07:01:26Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "leynos",
+          "date": "2025-07-30T07:05:09Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "leynos",
+          "date": "2025-07-30T07:07:32Z"
+        }
+      ]
+    },
+    "ai_tool_count": 4,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex",
+      "coderabbit",
+      "general_ai"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/leynos/weaver/pull/22",
+      "repo": "leynos/weaver",
+      "pr_number": 22,
+      "title": "Implement list-diagnostics command",
+      "author": "leynos",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "codex",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T00:14:26Z"
+        }
+      ],
+      "coderabbit": [
+        {
+          "location": "PR description",
+          "pattern": "coderabbit"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "sourcery-ai[bot]",
+          "date": "2025-07-28T00:14:22Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T00:14:26Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T00:14:26Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T00:14:26Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T00:14:26Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "leynos",
+          "date": "2025-07-28T17:48:34Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "leynos",
+          "date": "2025-07-28T17:48:34Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "leynos",
+          "date": "2025-07-28T17:48:34Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T17:48:39Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "leynos",
+          "date": "2025-07-28T22:55:12Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "leynos",
+          "date": "2025-07-28T22:55:12Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "leynos",
+          "date": "2025-07-28T22:55:12Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T22:55:17Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "leynos",
+          "date": "2025-07-28T22:56:00Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "leynos",
+          "date": "2025-07-28T23:05:45Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "leynos",
+          "date": "2025-07-28T23:05:45Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T23:07:04Z"
+        },
+        {
+          "location": "Code review comment",
+          "pattern": "coderabbit",
+          "author": "leynos",
+          "file": "weaverd/server.py"
+        },
+        {
+          "location": "Code review comment",
+          "pattern": "@coderabbitai",
+          "author": "leynos",
+          "file": "weaverd/server.py"
+        },
+        {
+          "location": "Code review comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "file": "weaverd/server.py"
+        },
+        {
+          "location": "Code review comment",
+          "pattern": "coderabbit",
+          "author": "leynos",
+          "file": "weaverd/rpc.py"
+        },
+        {
+          "location": "Code review comment",
+          "pattern": "@coderabbitai",
+          "author": "leynos",
+          "file": "weaverd/rpc.py"
+        },
+        {
+          "location": "Code review comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "file": "weaverd/rpc.py"
+        },
+        {
+          "location": "Code review comment",
+          "pattern": "coderabbit",
+          "author": "leynos",
+          "file": "weaverd/rpc.py"
+        },
+        {
+          "location": "Code review comment",
+          "pattern": "@coderabbitai",
+          "author": "leynos",
+          "file": "weaverd/rpc.py"
+        },
+        {
+          "location": "Code review comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "file": "weaverd/rpc.py"
+        }
+      ],
+      "general_ai": [
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "sourcery-ai[bot]",
+          "date": "2025-07-28T00:14:22Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-28T00:14:26Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "leynos",
+          "date": "2025-07-28T17:48:34Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "leynos",
+          "date": "2025-07-28T22:55:12Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "leynos",
+          "date": "2025-07-28T22:56:00Z"
+        }
+      ]
+    },
+    "ai_tool_count": 4,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex",
+      "coderabbit",
+      "general_ai"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/LordPixma/healthcare-saas-free/pull/15",
+      "repo": "LordPixma/healthcare-saas-free",
+      "pr_number": 15,
+      "title": "Fix Authorization header parsing",
+      "author": "LordPixma",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        }
+      ],
+      "coderabbit": [
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "sourcery-ai[bot]",
+          "date": "2025-07-30T06:59:17Z"
+        }
+      ],
+      "general_ai": [
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "sourcery-ai[bot]",
+          "date": "2025-07-30T06:59:17Z"
+        }
+      ]
+    },
+    "ai_tool_count": 4,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex",
+      "coderabbit",
+      "general_ai"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/gofiber/cli/pull/150",
+      "repo": "gofiber/cli",
+      "pr_number": 150,
+      "title": "Add basicauth config migrator",
+      "author": "ReneWerner87",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "codex",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:02:56Z"
+        }
+      ],
+      "coderabbit": [
+        {
+          "location": "PR description",
+          "pattern": "coderabbit"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:02:56Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:02:56Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:02:56Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:02:56Z"
+        }
+      ],
+      "general_ai": [
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:02:56Z"
+        }
+      ]
+    },
+    "ai_tool_count": 4,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex",
+      "coderabbit",
+      "general_ai"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/WSG23/yosai_intel_dashboard_fresh/pull/2262",
+      "repo": "WSG23/yosai_intel_dashboard_fresh",
+      "pr_number": 2262,
+      "title": "Refactor analytics component registration",
+      "author": "WSG23",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/leynos/vk/pull/44",
+      "repo": "leynos/vk",
+      "pr_number": 44,
+      "title": "Add review module documentation",
+      "author": "leynos",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "codex",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:07:09Z"
+        }
+      ],
+      "coderabbit": [
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "sourcery-ai[bot]",
+          "date": "2025-07-30T07:07:08Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:07:09Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:07:09Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:07:09Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:07:09Z"
+        },
+        {
+          "location": "Code review comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "file": "src/reviews.rs"
+        }
+      ],
+      "general_ai": [
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "sourcery-ai[bot]",
+          "date": "2025-07-30T07:07:08Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T07:07:09Z"
+        }
+      ]
+    },
+    "ai_tool_count": 4,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex",
+      "coderabbit",
+      "general_ai"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/DrJellifish/relief/pull/7",
+      "repo": "DrJellifish/relief",
+      "pr_number": 7,
+      "title": "Add trajectory analysis Quarto doc",
+      "author": "DrJellifish",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/yakuzadave/pyodide-ship-combat/pull/6",
+      "repo": "yakuzadave/pyodide-ship-combat",
+      "pr_number": 6,
+      "title": "Add pytest configuration and battle tests",
+      "author": "yakuzadave",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/igoorsa/trbot_RUST/pull/18",
+      "repo": "igoorsa/trbot_RUST",
+      "pr_number": 18,
+      "title": "Improve error handling in connectors",
+      "author": "igoorsa",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/mochilang/mochi/pull/14836",
+      "repo": "mochilang/mochi",
+      "pr_number": 14836,
+      "title": "Switch python json-ast to tree-sitter",
+      "author": "tamnd",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/ClubBoss/Poker_Analyzer/pull/4710",
+      "repo": "ClubBoss/Poker_Analyzer",
+      "pr_number": 4710,
+      "title": "Implement SmartTheoryRecapScoreWeighting",
+      "author": "ClubBoss",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/nyhave/Stocks/pull/70",
+      "repo": "nyhave/Stocks",
+      "pr_number": 70,
+      "title": "Improve error logging for Firestore",
+      "author": "nyhave",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/satinsiders/math-twin/pull/7",
+      "repo": "satinsiders/math-twin",
+      "pr_number": 7,
+      "title": "Add flake8 & mypy linting",
+      "author": "satinsiders",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/nathom/delphi.nvim/pull/2",
+      "repo": "nathom/delphi.nvim",
+      "pr_number": 2,
+      "title": "Add file tagging and cmp options",
+      "author": "nathom",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/WSG23/yosai_intel_dashboard_fresh/pull/2261",
+      "repo": "WSG23/yosai_intel_dashboard_fresh",
+      "pr_number": 2261,
+      "title": "Remove secret prints from rotation scripts",
+      "author": "WSG23",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/mochilang/mochi/pull/14835",
+      "repo": "mochilang/mochi",
+      "pr_number": 14835,
+      "title": "Add tree-sitter AST for Go in json-ast tool",
+      "author": "tamnd",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/nathom/delphi.nvim/pull/5",
+      "repo": "nathom/delphi.nvim",
+      "pr_number": 5,
+      "title": "Implement file tagging with metadata tracking",
+      "author": "nathom",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codex",
+      "confidence": "medium",
+      "evidence": "Branch pattern: codex/"
+    },
+    "ai_tools_detected": {
+      "chatgpt": [
+        {
+          "location": "PR description",
+          "pattern": "chatgpt"
+        }
+      ],
+      "codex": [
+        {
+          "location": "PR description",
+          "pattern": "codex"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "codex",
+          "commit_sha": "166e5715",
+          "author": "Nathan Thomas"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "chatgpt",
+      "codex"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/shahdtr24-meet/outlearn1/pull/2",
+      "repo": "shahdtr24-meet/outlearn1",
+      "pr_number": 2,
+      "title": "Another problem resolution",
+      "author": "shahdtr24-meet",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "cursor",
+          "commit_sha": "8e4c4807",
+          "author": "shahd  *-*"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/BrittanyDanforth/newsnekk/pull/61",
+      "repo": "BrittanyDanforth/newsnekk",
+      "pr_number": 61,
+      "title": "Changes from background agent bc-ecbb9797-d970-4e67-8245-1d2c8deda86b",
+      "author": "BrittanyDanforth",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/Vanny2048/cosm-dental-demo/pull/4",
+      "repo": "Vanny2048/cosm-dental-demo",
+      "pr_number": 4,
+      "title": "Fix netlify form detection issue",
+      "author": "Vanny2048",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/Massea0/entrepriseosxsoftprice/pull/1",
+      "repo": "Massea0/entrepriseosxsoftprice",
+      "pr_number": 1,
+      "title": "Review todo plan and wait",
+      "author": "Massea0",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/cgpeter96/arxiv_fetch/pull/1",
+      "repo": "cgpeter96/arxiv_fetch",
+      "pr_number": 1,
+      "title": "\u4f18\u5316\u5e76\u6dfb\u52a0\u7f8e\u89c2\u524d\u7aef",
+      "author": "cgpeter96",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/utom/sketch-measure/pull/711",
+      "repo": "utom/sketch-measure",
+      "pr_number": 711,
+      "title": "Check project status",
+      "author": "utom",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/testsvt/svt/pull/2",
+      "repo": "testsvt/svt",
+      "pr_number": 2,
+      "title": "Say hello",
+      "author": "testsvt",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/Bryllebanquil/ForegroundService/pull/2",
+      "repo": "Bryllebanquil/ForegroundService",
+      "pr_number": 2,
+      "title": "Add remote control and device management features",
+      "author": "Bryllebanquil",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/powerhouse1997/Personal_assistant-/pull/1",
+      "repo": "powerhouse1997/Personal_assistant-",
+      "pr_number": 1,
+      "title": "Build AI assistant telegram bot",
+      "author": "powerhouse1997",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/krshrimali/neovim/pull/34",
+      "repo": "krshrimali/neovim",
+      "pr_number": 34,
+      "title": "Configure ruff and coc-pyright for development",
+      "author": "krshrimali",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/YasinShaeri/LaravelShift/pull/1",
+      "repo": "YasinShaeri/LaravelShift",
+      "pr_number": 1,
+      "title": "Import vs code into ide",
+      "author": "YasinShaeri",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/astroniann/fractals/pull/1",
+      "repo": "astroniann/fractals",
+      "pr_number": 1,
+      "title": "Generate fractal art with randomized patterns",
+      "author": "astroniann",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/Joseph-hackathon/Stellarealize/pull/1",
+      "repo": "Joseph-hackathon/Stellarealize",
+      "pr_number": 1,
+      "title": "Build stellarize platform with cross-chain swaps",
+      "author": "Joseph-hackathon",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/Sindhura12345/quiz/pull/1",
+      "repo": "Sindhura12345/quiz",
+      "pr_number": 1,
+      "title": "Build vulnerability management dashboard website",
+      "author": "Sindhura12345",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/heguoping1021/hgp/pull/2",
+      "repo": "heguoping1021/hgp",
+      "pr_number": 2,
+      "title": "Java\u63a7\u5236\u53f024\u70b9\u6e38\u620f\u9879\u76ee",
+      "author": "heguoping1021",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/Raginee2000/cctnsAI/pull/1",
+      "repo": "Raginee2000/cctnsAI",
+      "pr_number": 1,
+      "title": "Build chatbot to query crime database",
+      "author": "cursor[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "high",
+      "evidence": "Bot account: cursor[bot]"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/duneanalytics/spellbook/pull/8572",
+      "repo": "duneanalytics/spellbook",
+      "pr_number": 8572,
+      "title": "Add tx_index and block_number to dex.trades",
+      "author": "0xRobin",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/Tokioace/N64-Nexus/pull/231",
+      "repo": "Tokioace/N64-Nexus",
+      "pr_number": 231,
+      "title": "Set up monthly events and redesign info cards",
+      "author": "Tokioace",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "cursor",
+          "author": "vercel[bot]",
+          "date": "2025-07-30T06:10:53Z"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/sqreele/fast/pull/33",
+      "repo": "sqreele/fast",
+      "pr_number": 33,
+      "title": "Fix fastapi startup and database connection",
+      "author": "sqreele",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/Eternalaaa/Eternal/pull/3",
+      "repo": "Eternalaaa/Eternal",
+      "pr_number": 3,
+      "title": "Load wafer standard configuration",
+      "author": "Eternalaaa",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "cursor",
+      "confidence": "low",
+      "evidence": "Branch pattern: cursor/ (cursor is primarily an IDE)"
+    },
+    "ai_tools_detected": {
+      "cursor": [
+        {
+          "location": "PR description",
+          "pattern": "cursor"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "cursor",
+          "commit_sha": "bbfa4d38",
+          "author": "Cursor Agent"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "cursor"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/walue-ai/blitz/pull/1",
+      "repo": "walue-ai/blitz",
+      "pr_number": 1,
+      "title": "Implement egui button integration as <eguibutton> HTML element",
+      "author": "devin-ai-integration[bot]",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T07:03:20Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T07:03:20Z"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "devin"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/liam-hq/liam/pull/2776",
+      "repo": "liam-hq/liam",
+      "pr_number": 2776,
+      "title": "Fix LangGraph retry mechanism for designSchemaNode",
+      "author": "devin-ai-integration[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:46:27Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:46:27Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "vercel[bot]",
+          "date": "2025-07-30T06:46:38Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "supabase[bot]",
+          "date": "2025-07-30T06:46:38Z"
+        }
+      ],
+      "coderabbit": [
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T06:46:31Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T06:46:31Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T06:46:31Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T06:46:31Z"
+        }
+      ],
+      "general_ai": [
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T06:46:31Z"
+        }
+      ]
+    },
+    "ai_tool_count": 3,
+    "ai_tool_names": [
+      "devin",
+      "coderabbit",
+      "general_ai"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/santhiprakash/ReactiveResume/pull/1",
+      "repo": "santhiprakash/ReactiveResume",
+      "pr_number": 1,
+      "title": "Rebrand ReactiveResume as 'The Resume Maker' for Blue-Collar Professionals",
+      "author": "devin-ai-integration[bot]",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:30:36Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:30:36Z"
+        }
+      ],
+      "coderabbit": [
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T06:30:41Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T06:30:41Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T06:30:41Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T06:30:41Z"
+        }
+      ],
+      "general_ai": [
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T06:30:41Z"
+        }
+      ]
+    },
+    "ai_tool_count": 3,
+    "ai_tool_names": [
+      "devin",
+      "coderabbit",
+      "general_ai"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/liam-hq/liam/pull/2773",
+      "repo": "liam-hq/liam",
+      "pr_number": 2773,
+      "title": "feat: improve Use Existing Schema feature with error constants and Japanese localization",
+      "author": "devin-ai-integration[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:31:32Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:31:32Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "vercel[bot]",
+          "date": "2025-07-30T06:31:35Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "supabase[bot]",
+          "date": "2025-07-30T06:31:44Z"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "devin"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/keiryan/devin-test/pull/3",
+      "repo": "keiryan/devin-test",
+      "pr_number": 3,
+      "title": "Fix all 8 styling and functionality issues",
+      "author": "devin-ai-integration[bot]",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T05:15:13Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T05:15:13Z"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "devin"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/liam-hq/liam/pull/2763",
+      "repo": "liam-hq/liam",
+      "pr_number": 2763,
+      "title": "feat: implement Deep Modeling toggle processing logic",
+      "author": "devin-ai-integration[bot]",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-29T11:14:09Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-29T11:14:09Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "vercel[bot]",
+          "date": "2025-07-29T11:14:11Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "supabase[bot]",
+          "date": "2025-07-30T00:33:30Z"
+        }
+      ],
+      "claude": [
+        {
+          "location": "Commit message",
+          "pattern": "claude",
+          "commit_sha": "ea55bbb4",
+          "author": "MH4GF"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude code",
+          "commit_sha": "ea55bbb4",
+          "author": "MH4GF"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude",
+          "commit_sha": "196d4375",
+          "author": "MH4GF"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude code",
+          "commit_sha": "196d4375",
+          "author": "MH4GF"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude",
+          "commit_sha": "14ff287c",
+          "author": "MH4GF"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude code",
+          "commit_sha": "14ff287c",
+          "author": "MH4GF"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude",
+          "commit_sha": "807f6e46",
+          "author": "MH4GF"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude code",
+          "commit_sha": "807f6e46",
+          "author": "MH4GF"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude",
+          "commit_sha": "4dddaca5",
+          "author": "MH4GF"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude code",
+          "commit_sha": "4dddaca5",
+          "author": "MH4GF"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude",
+          "commit_sha": "cd4fe77c",
+          "author": "MH4GF"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude code",
+          "commit_sha": "cd4fe77c",
+          "author": "MH4GF"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude",
+          "commit_sha": "055d2063",
+          "author": "MH4GF"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "claude code",
+          "commit_sha": "055d2063",
+          "author": "MH4GF"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "devin",
+      "claude"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/liam-hq/liam/pull/2750",
+      "repo": "liam-hq/liam",
+      "pr_number": 2750,
+      "title": "refactor: remove unused repositories annotation from langGraphUtils.ts",
+      "author": "devin-ai-integration[bot]",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-29T07:59:32Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-29T07:59:32Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "vercel[bot]",
+          "date": "2025-07-29T07:59:40Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "supabase[bot]",
+          "date": "2025-07-29T07:59:41Z"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "devin"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/liam-hq/liam/pull/2774",
+      "repo": "liam-hq/liam",
+      "pr_number": 2774,
+      "title": "fix: prevent infinite retry loops in designSchema routing",
+      "author": "devin-ai-integration[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:33:09Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:33:09Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "vercel[bot]",
+          "date": "2025-07-30T06:33:12Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "supabase[bot]",
+          "date": "2025-07-30T06:33:18Z"
+        }
+      ],
+      "coderabbit": [
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T06:33:14Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T06:33:14Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T06:33:14Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T06:33:14Z"
+        }
+      ],
+      "general_ai": [
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T06:33:14Z"
+        }
+      ]
+    },
+    "ai_tool_count": 3,
+    "ai_tool_names": [
+      "devin",
+      "coderabbit",
+      "general_ai"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/alexjpeng/library_demo/pull/17",
+      "repo": "alexjpeng/library_demo",
+      "pr_number": 17,
+      "title": "Security: Resolve critical vulnerabilities in Spring Boot dependencies",
+      "author": "devin-ai-integration[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:36:34Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:36:34Z"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "devin"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/alonzo151/gridder/pull/7",
+      "repo": "alonzo151/gridder",
+      "pr_number": 7,
+      "title": "Implement bot identification system with bot_name/bot_run separation",
+      "author": "devin-ai-integration[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:23:37Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:23:37Z"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "devin"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/alexjpeng/library_demo/pull/16",
+      "repo": "alexjpeng/library_demo",
+      "pr_number": 16,
+      "title": "fix: upgrade Spring Boot from 2.2.0.M6 to 2.7.18 to fix security vulnerabilities",
+      "author": "devin-ai-integration[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:21:55Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:21:55Z"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "devin"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/alexjpeng/library_demo/pull/15",
+      "repo": "alexjpeng/library_demo",
+      "pr_number": 15,
+      "title": "fix: Update H2 database from 1.4.197 to 2.3.232 to resolve security vulnerabilities",
+      "author": "devin-ai-integration[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:21:03Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:21:03Z"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "devin"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/SogoGolf/simplegolf-droid/pull/6",
+      "repo": "SogoGolf/simplegolf-droid",
+      "pr_number": 6,
+      "title": "Add MongoDB API to create Round objects",
+      "author": "devin-ai-integration[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T04:07:13Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T04:07:13Z"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "devin",
+          "commit_sha": "f8b3d232",
+          "author": "Devin AI"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "devin",
+          "commit_sha": "aadf7ff3",
+          "author": "Devin AI"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "devin"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/alexjpeng/library_demo/pull/14",
+      "repo": "alexjpeng/library_demo",
+      "pr_number": 14,
+      "title": "Security: Upgrade Apache Tomcat to 9.0.104 to resolve critical CVEs",
+      "author": "devin-ai-integration[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:04:16Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:04:16Z"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "devin"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/alexjpeng/library_demo/pull/13",
+      "repo": "alexjpeng/library_demo",
+      "pr_number": 13,
+      "title": "Security: Upgrade Jackson databind to 2.15.4 to resolve 13 critical CVEs",
+      "author": "devin-ai-integration[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:02:52Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T06:02:52Z"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "devin"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/liam-hq/liam/pull/2770",
+      "repo": "liam-hq/liam",
+      "pr_number": 2770,
+      "title": "feat: increase default recursion limit from 20 to 100",
+      "author": "devin-ai-integration[bot]",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T04:03:19Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T04:03:19Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "vercel[bot]",
+          "date": "2025-07-30T04:03:21Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "supabase[bot]",
+          "date": "2025-07-30T04:03:29Z"
+        }
+      ],
+      "coderabbit": [
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T04:03:25Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T04:03:25Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T04:03:25Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T04:03:25Z"
+        }
+      ],
+      "general_ai": [
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T04:03:25Z"
+        }
+      ]
+    },
+    "ai_tool_count": 3,
+    "ai_tool_names": [
+      "devin",
+      "coderabbit",
+      "general_ai"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/liam-hq/liam/pull/2687",
+      "repo": "liam-hq/liam",
+      "pr_number": 2687,
+      "title": "Re-enable noUncheckedIndexedAccess TypeScript strict option",
+      "author": "devin-ai-integration[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-25T04:36:23Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-25T04:36:23Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "vercel[bot]",
+          "date": "2025-07-25T04:36:25Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "supabase[bot]",
+          "date": "2025-07-25T04:36:34Z"
+        }
+      ],
+      "claude": [
+        {
+          "location": "Code review comment",
+          "pattern": "claude",
+          "author": "MH4GF",
+          "file": "frontend/apps/app/features/sessions/components/SessionForm/FormatSelectDropdown/FormatSelectDropdown.tsx"
+        },
+        {
+          "location": "Code review comment",
+          "pattern": "claude",
+          "author": "claude[bot]",
+          "file": "frontend/apps/app/features/sessions/components/SessionForm/FormatSelectDropdown/FormatSelectDropdown.tsx"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "devin",
+      "claude"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/Secured-Finance/contracts/pull/400",
+      "repo": "Secured-Finance/contracts",
+      "pr_number": 400,
+      "title": "Add GitHub issue templates and update configs for SF-1438",
+      "author": "devin-ai-integration[bot]",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-23T09:07:06Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-23T09:07:07Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-23T09:07:07Z"
+        }
+      ],
+      "coderabbit": [
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-23T09:07:11Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-23T09:07:11Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-23T09:07:11Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-23T09:07:11Z"
+        }
+      ],
+      "general_ai": [
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-23T09:07:11Z"
+        }
+      ]
+    },
+    "ai_tool_count": 3,
+    "ai_tool_names": [
+      "devin",
+      "coderabbit",
+      "general_ai"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/haroldlucero/500-AI-Agents-Projects/pull/1",
+      "repo": "haroldlucero/500-AI-Agents-Projects",
+      "pr_number": 1,
+      "title": "Convert README.md to static website and deploy to production",
+      "author": "devin-ai-integration[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T05:16:43Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-30T05:16:43Z"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "devin",
+          "commit_sha": "2de278fd",
+          "author": "Devin AI"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "devin"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/irislib/iris-client/pull/70",
+      "repo": "irislib/iris-client",
+      "pr_number": 70,
+      "title": "Debug and fix multi-device visibility issue in chat settings",
+      "author": "devin-ai-integration[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "devin",
+      "confidence": "high",
+      "evidence": "Bot account: devin-ai-integration[bot]"
+    },
+    "ai_tools_detected": {
+      "devin": [
+        {
+          "location": "PR description",
+          "pattern": "devin"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-21T14:53:39Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "devin ai",
+          "author": "devin-ai-integration[bot]",
+          "date": "2025-07-21T14:53:39Z"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "devin"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/vistara-apps/-app-development-7557/pull/1",
+      "repo": "vistara-apps/-app-development-7557",
+      "pr_number": 1,
+      "title": "\ud83e\udd4a Transform Phyght into Combat Video Platform with Stealth Mode",
+      "author": "codegen-sh[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/Moustapha14/AFROVIBZ/pull/2",
+      "repo": "Moustapha14/AFROVIBZ",
+      "pr_number": 2,
+      "title": "\ud83d\udd24 Phase 2: Typography Mobile-First - Lisibilit\u00e9 \u226516px",
+      "author": "codegen-sh[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/codegen-sh/Kevin-s-Adventure-Game/pull/2504",
+      "repo": "codegen-sh/Kevin-s-Adventure-Game",
+      "pr_number": 2504,
+      "title": "Replace rainbow emojis with surfer emoji in README",
+      "author": "codegen-sh[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/codegen-sh/Kevin-s-Adventure-Game/pull/2503",
+      "repo": "codegen-sh/Kevin-s-Adventure-Game",
+      "pr_number": 2503,
+      "title": "Add surfer emoji to README \ud83c\udfc4\u200d\u2642\ufe0f",
+      "author": "codegen-sh[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/PramaYudhistira/monero/pull/1",
+      "repo": "PramaYudhistira/monero",
+      "pr_number": 1,
+      "title": "Add get_node_health RPC endpoint for comprehensive node monitoring",
+      "author": "codegen-sh[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/Zeeeepa/voltagent/pull/89",
+      "repo": "Zeeeepa/voltagent",
+      "pr_number": 89,
+      "title": "Fix deployment script to use static webhook secret \"123\" and resolve all deployment issues",
+      "author": "codegen-sh[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {
+      "coderabbit": [
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T05:00:47Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "@coderabbitai",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T05:00:47Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "coderabbit review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T05:00:47Z"
+        },
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T05:00:47Z"
+        }
+      ],
+      "general_ai": [
+        {
+          "location": "PR comment",
+          "pattern": "ai review",
+          "author": "coderabbitai[bot]",
+          "date": "2025-07-30T05:00:47Z"
+        }
+      ]
+    },
+    "ai_tool_count": 2,
+    "ai_tool_names": [
+      "coderabbit",
+      "general_ai"
+    ],
+    "is_multi_ai": true
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/vistara-apps/-app-development-8640/pull/2",
+      "repo": "vistara-apps/-app-development-8640",
+      "pr_number": 2,
+      "title": "Add Feature: Promo PDF Downloader with AI-Generated Images",
+      "author": "codegen-sh[bot]",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/d0rbu/nnterp/pull/3",
+      "repo": "d0rbu/nnterp",
+      "pr_number": 3,
+      "title": "Fix test failures: router disable bug and indentation issues",
+      "author": "codegen-sh[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/ChawlaAvi/Ghost/pull/3",
+      "repo": "ChawlaAvi/Ghost",
+      "pr_number": 3,
+      "title": "Add dual Stripe accounts support to Ghost",
+      "author": "codegen-sh[bot]",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/vistara-apps/-app-development-8640/pull/1",
+      "repo": "vistara-apps/-app-development-8640",
+      "pr_number": 1,
+      "title": "\ud83c\udfa8 UI/UX Review Implementation - Ancient Eats Design System Overhaul",
+      "author": "codegen-sh[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/d0rbu/nnterp/pull/2",
+      "repo": "d0rbu/nnterp",
+      "pr_number": 2,
+      "title": "Fix RouterProbabilitiesAccessor to compute proper normalized probabilities",
+      "author": "codegen-sh[bot]",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {
+      "general_ai": [
+        {
+          "location": "Code review comment",
+          "pattern": "llm",
+          "author": "d0rbu",
+          "file": "nnterp/rename_utils.py"
+        },
+        {
+          "location": "Code review comment",
+          "pattern": "llm",
+          "author": "d0rbu",
+          "file": "nnterp/rename_utils.py"
+        },
+        {
+          "location": "Commit message",
+          "pattern": "llm",
+          "commit_sha": "e5a660cf",
+          "author": "codegen-sh[bot]"
+        }
+      ]
+    },
+    "ai_tool_count": 1,
+    "ai_tool_names": [
+      "general_ai"
+    ],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/AkshayPatel8140/Agentic_AI/pull/1",
+      "repo": "AkshayPatel8140/Agentic_AI",
+      "pr_number": 1,
+      "title": "Add Daily Expense & Income Tracker Application",
+      "author": "codegen-sh[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/codegen-sh/Kevin-s-Adventure-Game/pull/2502",
+      "repo": "codegen-sh/Kevin-s-Adventure-Game",
+      "pr_number": 2502,
+      "title": "\ud83c\udf08 Add colorful rainbow banner to README",
+      "author": "codegen-sh[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/vistara-apps/-app-development-9573/pull/3",
+      "repo": "vistara-apps/-app-development-9573",
+      "pr_number": 3,
+      "title": "feat: Add real-time booking agent chat interface with SMS reminders",
+      "author": "codegen-sh[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/vistara-apps/-app-development-9573/pull/2",
+      "repo": "vistara-apps/-app-development-9573",
+      "pr_number": 2,
+      "title": "Add SMS Reminder Feature for Appointments",
+      "author": "codegen-sh[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/carmandale/media_transcribe_manager/pull/64",
+      "repo": "carmandale/media_transcribe_manager",
+      "pr_number": 64,
+      "title": "\ud83d\udd10 Complete Security Test Infrastructure & Authentication System",
+      "author": "codegen-sh[bot]",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/dreamerumesh/sampoornam_foods/pull/1",
+      "repo": "dreamerumesh/sampoornam_foods",
+      "pr_number": 1,
+      "title": "\ud83d\ude80 Implement Lazy Loading for Images and Infinite Scroll for Products",
+      "author": "codegen-sh[bot]",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/vistara-apps/-app-development-9573/pull/1",
+      "repo": "vistara-apps/-app-development-9573",
+      "pr_number": 1,
+      "title": "\ud83c\udfa8 Comprehensive UI/UX Review & Modernization - BookIt App",
+      "author": "codegen-sh[bot]",
+      "state": "closed"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/itayfeldman/life/pull/1",
+      "repo": "itayfeldman/life",
+      "pr_number": 1,
+      "title": "\ud83e\uddec Enhance Conway's Game of Life with Comprehensive Improvements",
+      "author": "codegen-sh[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  },
+  {
+    "pr_info": {
+      "url": "https://github.com/codegen-sh/codegen/pull/1181",
+      "repo": "codegen-sh/codegen",
+      "pr_number": 1181,
+      "title": "Add Slack App Marketplace listing to documentation",
+      "author": "codegen-sh[bot]",
+      "state": "open"
+    },
+    "primary_creator": {
+      "primary_creator": "codegen",
+      "confidence": "high",
+      "evidence": "Bot account: codegen-sh[bot]"
+    },
+    "ai_tools_detected": {},
+    "ai_tool_count": 0,
+    "ai_tool_names": [],
+    "is_multi_ai": false
+  }
+]
